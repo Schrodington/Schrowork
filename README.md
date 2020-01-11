@@ -1,2 +1,2 @@
 # Schrowork
-A pupil of code
+Hello world!
